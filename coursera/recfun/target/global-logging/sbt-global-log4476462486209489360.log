@@ -1,0 +1,27 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(submit agolovin01@gmail.com rsldLgj2tkLyf4Mb, Some(fa412342-a424-4455-8299-75b471bbacca), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: submit[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 3 Scala sources to C:\Users\User\IdeaProjects\recfun\target\scala-3.0.0\classes ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m-- Warning: C:\Users\User\IdeaProjects\recfun\src\main\scala\recfun\RecFun.scala:20:3 [0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m[33m20 |[0m   cuttingChars(chars)[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |   [33m^[0m[0m
+[0m[[0m[33mwarn[0m] [0m[0m   |   Line is indented too far to the left, or a `}` is missing[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to submit "recfun" assignment in "scala-functional-programming" course[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing:[0m
+[0m[[0m[0minfo[0m] [0m[0m- email: agolovin01@gmail.com[0m
+[0m[[0m[0minfo[0m] [0m[0m- submit token: rsldLgj2tkLyf4Mb[0m
+[0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
+[0m[[0m[0minfo[0m] [0m[0mSuccessfully connected to Coursera. (Status 201)[0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mAssignment submitted successfully![0m
+[0m[[0m[0minfo[0m] [0m[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mYou can see how you scored by going to:[0m
+[0m[[0m[0minfo[0m] [0m[0mhttps://www.coursera.org/learn/scala-functional-programming/programming/5y1CP/[0m
+[0m[[0m[0minfo[0m] [0m[0mor (for premium learners):[0m
+[0m[[0m[0minfo[0m] [0m[0mhttps://www.coursera.org/learn/scala-functional-programming/programming/DV6Vv[0m
+[0m[[0m[0minfo[0m] [0m[0m                       [0m
+[0m[[0m[0minfo[0m] [0m[0mand clicking on "My Submission".[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 1 s, completed 20 дек. 2021 г., 5:46:13[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

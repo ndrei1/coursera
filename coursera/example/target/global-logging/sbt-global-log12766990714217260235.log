@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(submit agolovin01@gmail.com 0kb7hIJKnyrGDWe8, Some(532c4e97-c4d2-4eb3-aa93-4f602f93233a), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: submit[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\User\IdeaProjects\example\target\scala-3.0.0\classes ...[0m
+[0m[[0m[0minfo[0m] [0m[0mAttempting to submit "example" assignment in "progfun1" course[0m
+[0m[[0m[0minfo[0m] [0m[0mUsing:[0m
+[0m[[0m[0minfo[0m] [0m[0m- email: agolovin01@gmail.com[0m
+[0m[[0m[0minfo[0m] [0m[0m- submit token: 0kb7hIJKnyrGDWe8[0m
+[0m[[0m[0minfo[0m] [0m[0mConnecting to Coursera...[0m
+[0m[[0m[31merror[0m] [0m[0mConnection to Coursera failed.[0m
+[0m[[0m[31merror[0m] [0m[0mThere was something wrong while attempting to connect to Coursera.[0m
+[0m[[0m[31merror[0m] [0m[0mCheck your internet connection.[0m
+[0m[[0m[31merror[0m] [0m[0mjava.net.SocketTimeoutException: connect timed out[0m
+[0m[[0m[0mdebug[0m] [0m[0mForcing garbage collection...[0m
+[0m[[0m[32msuccess[0m] [0m[0mTotal time: 21 s, completed 18 дек. 2021 г., 17:06:17[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m
