@@ -39,22 +39,33 @@ class RecFunSuite extends munit.FunSuite :
   }
   // ------ countChange tests -------------------------------------------------
 
-  test("countChange: example given in instructions") {
+  test("countChange: 4") {
     assertEquals(countChange(4, List(1, 2)), 3)
   }
 
-  test("countChange: sorted CHF") {
+  test("countChange: 300") {
     assertEquals(countChange(300, List(5, 10, 20, 50, 100, 200, 500)), 1022)
   }
 
-  test("countChange: no pennies") {
+  test("countChange: 301") {
     assertEquals(countChange(301, List(5, 10, 20, 50, 100, 200, 500)), 0)
   }
 
-  test("countChange: unsorted CHF") {
-    assertEquals(countChange(300, List(500, 5, 50, 100, 20, 200, 10)), 1022)
+  test("countChange: 1") {
+    assertEquals(countChange(1, List(1)), 1)
   }
 
+  test("countChange: 0") {
+    assertEquals(countChange(0, List(1,2,4)), 0)
+  }
+
+  test("countChange: 100") {
+    assertEquals(countChange(100, List()), 0)
+  }
+
+  test("countChange: 300") {
+    assertEquals(countChange(300, List(500, 5, 50, 100, 20, 200, 10)), 1022)
+  }
 
   // ------ pascal tests ------------------------------------------------------
 
