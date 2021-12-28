@@ -1,0 +1,15 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\progfun1-funsets-without-resources_3-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\classes\funsets[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets\FunSets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\classes\funsets\FunSets$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets\FunSets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\classes\funsets\FunSets.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets\FunSets.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\classes\funsets\FunSets.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets\FunSetsInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\classes\funsets\FunSetsInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	funsets\FunSetsInterface.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\User\IdeaProjects\funsets\target\scala-3.0.0\classes\funsets\FunSetsInterface.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
